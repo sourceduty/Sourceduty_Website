@@ -17,9 +17,5 @@ The Sourceduty website, currently under development by Alex, will be designed to
 <br>
 [Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
 
-#
-
-![Development](https://github.com/user-attachments/assets/cc42cf1c-a380-4e06-865a-58c30de16b42)
-
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
