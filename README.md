@@ -1,4 +1,4 @@
-![Sourceduty](https://github.com/user-attachments/assets/71e21585-bc72-41a7-aa8c-be04048248d7)
+![Sourceduty](https://github.com/user-attachments/assets/b9682844-15e8-445f-abd4-5f349ac6899a)
 
 > Sourceduty's custom website.
 
